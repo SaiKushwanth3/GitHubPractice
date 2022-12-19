@@ -1,0 +1,2 @@
+welcome to my first git and git hub practice.
+This file is created using nano editor.
